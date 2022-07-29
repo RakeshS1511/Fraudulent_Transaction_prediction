@@ -63,18 +63,18 @@ My solution to solve this problem will be the development of a data science proj
 ## AXES-SUBPLOT
 ![image](https://user-images.githubusercontent.com/108456495/181828927-3c03e53d-1659-471d-8cf4-e7a2eb99a498.png)
 ## Performed Models and their Accuracies(Before Under Sampling)
-* ### Logistic Regression: 88.075% 
+* ### Logistic Regression: 88.21% 
 
-* ### XG Boost Classifier:  96.22%
+* ### XG Boost Classifier:  96.02%
 ## Under Sampling
 ### BEFORE  UNDERSAMPLING RATIO OF FRAUD AND NON-FRAUD DATA
 ![image](https://user-images.githubusercontent.com/108456495/181829326-e2a30260-de92-47d4-a766-7dbb1350c7d7.png)
 ### After  UNDERSAMPLING RATIO OF FRAUD AND NON-FRAUD DATA
 ![image](https://user-images.githubusercontent.com/108456495/181829425-8b12b459-4422-4395-8046-c94d2574ab8f.png)
 ## Performed Models and their Accuracies(After Under Sampling)
-* ### Logistic Regression: 88.075% 
+* ### Logistic Regression: 81.96% 
 
-* ### XG Boost Classifier:  89.92%
+* ### XG Boost Classifier:  88.92%
 # Final Model 
 ### XG Boost Classifier
-#### With accuracy of 89%
+#### With accuracy of 88.92%
