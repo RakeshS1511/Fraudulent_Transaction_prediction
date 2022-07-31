@@ -41,14 +41,11 @@ My solution to solve this problem will be the development of a data science proj
 * #### All the fraud amount is greater than 10.000.
 
     **TRUE:** The values are greater than 10.000. But it's important to note that the no-fraud values is greater than 100.000 also.
-
-    ![hypothesis2](![image](https://user-images.githubusercontent.com/108456495/181827922-499d2760-eb1f-4126-9448-116291925d93.png)
+    (![image](https://user-images.githubusercontent.com/108456495/181827922-499d2760-eb1f-4126-9448-116291925d93.png)
 
 * #### 60% of fraud transaction occours using cash-out-type method.
 
     **FALSE:** The fraud transaction occours in transfer and cash-out type. However they're almost the same value.
-
-    ![hypothesis3](![image](https://user-images.githubusercontent.com/108456495/181828070-94c613b5-42b9-4341-8a81-04d684cdc7cb.png))
     ![image](https://user-images.githubusercontent.com/108456495/181828156-4caf85b7-e516-42d2-a5b4-72563a52ba9b.png)
 
 
@@ -56,7 +53,7 @@ My solution to solve this problem will be the development of a data science proj
 
     **FALSE:** The majority transactions occours in trasnfer-type, however transactions greater than 100.000 occour in cash-out and cash-in too.
 
-    ![hypothesis4](![image](https://user-images.githubusercontent.com/108456495/181828180-8a35457b-bba8-49ec-920b-5156b4d180ef.png))
+  ![image](https://user-images.githubusercontent.com/108456495/181828180-8a35457b-bba8-49ec-920b-5156b4d180ef.png))
     
     ## Distribution of transaction types
     ![image](https://user-images.githubusercontent.com/108456495/181828804-3d9ece42-bde0-4d07-9536-3878d9127387.png)
